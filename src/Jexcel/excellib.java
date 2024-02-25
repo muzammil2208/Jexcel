@@ -1,4 +1,4 @@
-package excellib;
+package Jexcel;
 
 import org.apache.poi.ss.usermodel.*;
 
